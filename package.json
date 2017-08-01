@@ -1,0 +1,25 @@
+{
+  "name": "seed-npm-jasmine-karma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatersum/seed-npm-jasmine-karma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatersum/seed-npm-jasmine-karma/issues"
+  },
+  "homepage": "https://github.com/greatersum/seed-npm-jasmine-karma#readme",
+  "devDependencies": {
+    "jasmine": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
